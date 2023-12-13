@@ -10,6 +10,10 @@ After assembling the dataset, we used Matplotlib to plot various aspects of the 
 
 The data was retrieved from the OpenWeatherMap API, which is accessible at https://openweathermap.org/api.
 
+## ETL & Data Analytics
+
+Please click [this link](https://github.com/jwoh1323/Weather-API-Project/blob/b8a2d88decbf637009346c458c44fab604f9c1fb/starter_code/WeatherPy.ipynb) to see how the data was retrieved from OpenWeatherMap API and how the visualizations were created. 
+
 ## Languages & Tools used 
 
 Python, Pandas, Matplotlib, HTML
