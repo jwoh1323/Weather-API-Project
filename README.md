@@ -9,3 +9,11 @@ After assembling the dataset, we used Matplotlib to plot various aspects of the 
 ## Dataset Info
 
 The data was retrieved from the OpenWeatherMap API, which is accessible at https://openweathermap.org/api.
+
+## Languages & Tools used 
+
+Python, Pandas, Matplotlib, HTML
+
+## Final Product
+
+The final outcome is presented on the webpage, featuring detailed scatter plot analyses.
