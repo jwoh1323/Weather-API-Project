@@ -17,3 +17,5 @@ Python, Pandas, Matplotlib, HTML
 ## Final Product
 
 The final outcome is presented on the webpage, featuring detailed scatter plot analyses.
+
+![alt text](https://github.com/jwoh1323/Weather-API-Project/blob/138e3462a64921e3b15e9b9947f328c57ab4798b/starter_code/pro2.jpg) 
