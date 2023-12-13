@@ -18,7 +18,7 @@ Please click [this link](https://github.com/jwoh1323/Weather-API-Project/blob/b8
 
 Python, Pandas, Matplotlib, HTML
 
-## Final Product
+## Project Outcome
 
 The final outcome is presented on the webpage, featuring detailed scatter plot analyses.
 
